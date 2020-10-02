@@ -22,7 +22,7 @@ Trilha Sonora liberada para uso disponível em https://www.youtube.com/watch?v=n
 O jogador começa centralizado no mapa com todas as partes fechadas e sugerindo assim para que ele siga em frente e encontre com seu inimigo
 
 ### Controles
-WASD ou ArrowKeys para movimentar e Left-Click Mouse para atirar a flecha
+WASD ou ArrowKeys para movimentar e Space Button para atirar a flecha
 
 ### Dificuldade
 Terá inimigos que o perseguiram e os leveis irão aumentando a dificuldade de sobreviver.
